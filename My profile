@@ -1,0 +1,17 @@
+<html>
+    <title>About me<title>
+
+<head></head>
+
+<body> 
+    <hl><h1>Janaki Pillai</h1></hl>
+    <p> I am 18 years old</p>
+    <ul> I have a pet dog.
+        His name is Charlie.
+        He is 4 years old.
+    </ul>
+    <blockquote>
+        Thank you for reading my page
+    </blockquote>
+</body>
+</html>
